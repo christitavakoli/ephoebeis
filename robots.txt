@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oomeizeep.seattlexcoders.org/sitemap.xml
